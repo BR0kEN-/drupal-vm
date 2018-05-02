@@ -42,7 +42,6 @@ vagrant_cpus: 1
 
 # Ensure vagrant plugins are installed.
 vagrant_plugins:
-  - name: vagrant-vbguest
   - name: vagrant-hostsupdater
 
 # Minimum required versions.
